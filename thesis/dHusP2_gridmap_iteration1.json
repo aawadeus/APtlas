@@ -1,0 +1,6852 @@
+{
+  "scale_m_per_px": 0.016942,
+  "grid_spacing_m": 1.0,
+  "floorplan": ".\\pages\\uni\\dHusP2_spin.png",
+  "aps": [
+    {
+      "id": "Iteration1",
+      "x": 1672,
+      "y": 944,
+      "ssid": "APtlas_5",
+      "channel": 40
+    }
+  ],
+  "points": [
+    {
+      "id": "P1",
+      "x": 236,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -48,
+      "snr": 37,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:71:cf",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -75,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:ce",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -74,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cd",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -75,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -75,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -75,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -56,
+          "snr": 23
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -56,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -57,
+          "snr": 22
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -58,
+          "snr": 23
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -56,
+          "snr": 23
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -48,
+          "snr": 34
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -63,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 11
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -52,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -51,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -50,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -50,
+          "snr": 26
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -50,
+          "snr": 27
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2d",
+          "ssid": "HV-GUEST",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 7
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2b",
+          "ssid": "PTC-IOT",
+          "channel": 52,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2f",
+          "ssid": "eduroam",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2e",
+          "ssid": "HV-COF",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0e",
+          "ssid": "HV-COF",
+          "channel": 56,
+          "rssi": -82,
+          "snr": 9
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0d",
+          "ssid": "HV-GUEST",
+          "channel": 56,
+          "rssi": -82,
+          "snr": 9
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 56,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 56,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0f",
+          "ssid": "eduroam",
+          "channel": 56,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -56,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -56,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -56,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6f",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -73,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6e",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6d",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -72,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -74,
+          "snr": 16
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -56,
+          "snr": 16
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -56,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -64,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -64,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -51,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -51,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -51,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -51,
+          "snr": 29
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ae",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ad",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -82,
+          "snr": 3
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -83,
+          "snr": 4
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -51,
+          "snr": 34
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:af",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cd",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cf",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:ce",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -82,
+          "snr": 3
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -81,
+          "snr": 2
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -42,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -43,
+          "snr": 30
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -43,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -42,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -42,
+          "snr": null
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "x": 531,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -50,
+      "snr": 37,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -67,
+          "snr": 21
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -69,
+          "snr": 21
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -68,
+          "snr": 22
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cf",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -73,
+          "snr": 16
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:ce",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -74,
+          "snr": 16
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cd",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -74,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -76,
+          "snr": 16
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -74,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -68,
+          "snr": 21
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -69,
+          "snr": 21
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -50,
+          "snr": 30
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -59,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -48,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -48,
+          "snr": 29
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -50,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -48,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -80,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -79,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -46,
+          "snr": 26
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2f",
+          "ssid": "eduroam",
+          "channel": 52,
+          "rssi": -76,
+          "snr": 7
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2e",
+          "ssid": "HV-COF",
+          "channel": 52,
+          "rssi": -75,
+          "snr": 12
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2d",
+          "ssid": "HV-GUEST",
+          "channel": 52,
+          "rssi": -75,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 52,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2b",
+          "ssid": "PTC-IOT",
+          "channel": 52,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 52,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0f",
+          "ssid": "eduroam",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0e",
+          "ssid": "HV-COF",
+          "channel": 56,
+          "rssi": -77,
+          "snr": 12
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0d",
+          "ssid": "HV-GUEST",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 56,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 56,
+          "rssi": -77,
+          "snr": 8
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -59,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -59,
+          "snr": 25
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -61,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -60,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 9
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -60,
+          "snr": 26
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6f",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6e",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6d",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -82,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -62,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -60,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -61,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -61,
+          "snr": 21
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ad",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -82,
+          "snr": 5
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -47,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -47,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -47,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -48,
+          "snr": 13
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:ae",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -46,
+          "snr": 7
+        },
+        {
+          "bssid": "2c:d0:2d:4b:77:af",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -79,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:20",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2f",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2e",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -80,
+          "snr": 7
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2d",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2b",
+          "ssid": "PTC-IOT",
+          "channel": 124,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -81,
+          "snr": 3
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -49,
+          "snr": 27
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -48,
+          "snr": 26
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -47,
+          "snr": 15
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -48,
+          "snr": 14
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -49,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cd",
+          "ssid": "HV-GUEST",
+          "channel": 136,
+          "rssi": -80,
+          "snr": 4
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cf",
+          "ssid": "eduroam",
+          "channel": 136,
+          "rssi": -80,
+          "snr": 1
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "x": 826,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -42,
+      "snr": 46,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:74:ef",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -76,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ee",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -79,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -54,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ed",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -77,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -56,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -77,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -56,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -78,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -56,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -54,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cf",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -84,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:ce",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cd",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -84,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -85,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:3c:0f:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -85,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:3c:0f:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:3c:0f:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -83,
+          "snr": 9
+        },
+        {
+          "bssid": "24:16:9d:3c:0f:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "24:16:9d:3c:0f:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -42,
+          "snr": 33
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -51,
+          "snr": 29
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -78,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -78,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -78,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -79,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -78,
+          "snr": 13
+        },
+        {
+          "bssid": "66:c3:a2:4f:2f:e9",
+          "ssid": "SAMFAST",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 3
+        },
+        {
+          "bssid": "4e:c3:a2:4f:2f:e9",
+          "ssid": "SAMALLA",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -56,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -56,
+          "snr": 29
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -55,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -55,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -56,
+          "snr": 30
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 52,
+          "rssi": -78,
+          "snr": 12
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2b",
+          "ssid": "PTC-IOT",
+          "channel": 52,
+          "rssi": -77,
+          "snr": 16
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 52,
+          "rssi": -78,
+          "snr": 12
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2f",
+          "ssid": "eduroam",
+          "channel": 52,
+          "rssi": -74,
+          "snr": 12
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2e",
+          "ssid": "HV-COF",
+          "channel": 52,
+          "rssi": -77,
+          "snr": 13
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2d",
+          "ssid": "HV-GUEST",
+          "channel": 52,
+          "rssi": -77,
+          "snr": 13
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 9
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 56,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0f",
+          "ssid": "eduroam",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 6
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0e",
+          "ssid": "HV-COF",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 16
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0d",
+          "ssid": "HV-GUEST",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6d",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -72,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -72,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -72,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -72,
+          "snr": 19
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -88,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6f",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6e",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 23
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 26
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -46,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -46,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -46,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -46,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -47,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -75,
+          "snr": 10
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -75,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -75,
+          "snr": 13
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -75,
+          "snr": 9
+        },
+        {
+          "bssid": "78:bc:1a:50:62:21",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -82,
+          "snr": 15
+        },
+        {
+          "bssid": "78:bc:1a:50:62:22",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2f",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -79,
+          "snr": 9
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2e",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -79,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2d",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2b",
+          "ssid": "PTC-IOT",
+          "channel": 124,
+          "rssi": -80,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -78,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -40,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -40,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -39,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -39,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -39,
+          "snr": 35
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "x": 1121,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -36,
+      "snr": 52,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:74:ef",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 11
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ee",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -59,
+          "snr": 23
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ed",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -60,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -80,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -59,
+          "snr": 26
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -82,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -61,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -60,
+          "snr": 24
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -36,
+          "snr": 63
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -48,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -65,
+          "snr": 22
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -80,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -80,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -80,
+          "snr": 12
+        },
+        {
+          "bssid": "66:c3:a2:4f:2f:e9",
+          "ssid": "SAMFAST",
+          "channel": 48,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 10
+        },
+        {
+          "bssid": "4e:c3:a2:4f:2f:e9",
+          "ssid": "SAMALLA",
+          "channel": 48,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -64,
+          "snr": 23
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -63,
+          "snr": 23
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -65,
+          "snr": 23
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2d",
+          "ssid": "HV-GUEST",
+          "channel": 52,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 9
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2b",
+          "ssid": "PTC-IOT",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 8
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2f",
+          "ssid": "eduroam",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2e",
+          "ssid": "HV-COF",
+          "channel": 52,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 52,
+          "rssi": -82,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0f",
+          "ssid": "eduroam",
+          "channel": 56,
+          "rssi": -83,
+          "snr": 10
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0e",
+          "ssid": "HV-COF",
+          "channel": 56,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0d",
+          "ssid": "HV-GUEST",
+          "channel": 56,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 56,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 56,
+          "rssi": -83,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -73,
+          "snr": 10
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -73,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -73,
+          "snr": 18
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -62,
+          "snr": 19
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -64,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 22
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -61,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -59,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -60,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -60,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -60,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:21",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:22",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -82,
+          "snr": 3
+        },
+        {
+          "bssid": "78:bc:1a:50:62:25",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -74,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -73,
+          "snr": 15
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -72,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:23",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2f",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -76,
+          "snr": 9
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2e",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -76,
+          "snr": 10
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2d",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -77,
+          "snr": 8
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -77,
+          "snr": 8
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2b",
+          "ssid": "PTC-IOT",
+          "channel": 124,
+          "rssi": -77,
+          "snr": 10
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -77,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -36,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -35,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -36,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -36,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -36,
+          "snr": 63
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "x": 1416,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -32,
+      "snr": 56,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -48,
+          "snr": 34
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -48,
+          "snr": 32
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -48,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -47,
+          "snr": 29
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -48,
+          "snr": 34
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -32,
+          "snr": null
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -38,
+          "snr": 30
+        },
+        {
+          "bssid": "66:c3:a2:4f:2f:e9",
+          "ssid": "SAMFAST",
+          "channel": 48,
+          "rssi": -70,
+          "snr": 19
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -71,
+          "snr": 20
+        },
+        {
+          "bssid": "4e:c3:a2:4f:2f:e9",
+          "ssid": "SAMALLA",
+          "channel": 48,
+          "rssi": -70,
+          "snr": 19
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -70,
+          "snr": 21
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -74,
+          "snr": 18
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -75,
+          "snr": 18
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -74,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -75,
+          "snr": 16
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -74,
+          "snr": 18
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 52,
+          "rssi": -86,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 52,
+          "rssi": -85,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2b",
+          "ssid": "PTC-IOT",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 10
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2e",
+          "ssid": "HV-COF",
+          "channel": 52,
+          "rssi": -86,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2f",
+          "ssid": "eduroam",
+          "channel": 52,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2d",
+          "ssid": "HV-GUEST",
+          "channel": 52,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 8
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -80,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -79,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 4
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -68,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -69,
+          "snr": 19
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -69,
+          "snr": 11
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -68,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -68,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -65,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -64,
+          "snr": 14
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -65,
+          "snr": 23
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -65,
+          "snr": 15
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -64,
+          "snr": 10
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2f",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2e",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -80,
+          "snr": 14
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2d",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -80,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2b",
+          "ssid": "PTC-IOT",
+          "channel": 124,
+          "rssi": -80,
+          "snr": 5
+        },
+        {
+          "bssid": "78:bc:1a:85:fa:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -28,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -28,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -27,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -27,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -27,
+          "snr": 63
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "x": 1711,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -24,
+      "snr": 63,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -50,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -51,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -52,
+          "snr": 34
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -52,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -53,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ef",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ee",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -83,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ed",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -24,
+          "snr": 30
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -32,
+          "snr": null
+        },
+        {
+          "bssid": "66:c3:a2:4f:2f:e9",
+          "ssid": "SAMFAST",
+          "channel": 48,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -62,
+          "snr": 24
+        },
+        {
+          "bssid": "4e:c3:a2:4f:2f:e9",
+          "ssid": "SAMALLA",
+          "channel": 48,
+          "rssi": -62,
+          "snr": 24
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -63,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 11
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -80,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -79,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 5
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 3
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 7
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 8
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 5
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -82,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -73,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -73,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -73,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -72,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -73,
+          "snr": 13
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -62,
+          "snr": 22
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -24,
+          "snr": 63
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -79,
+          "snr": 3
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -24,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -80,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -24,
+          "snr": 63
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -80,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -25,
+          "snr": 63
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -26,
+          "snr": null
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "x": 2006,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -33,
+      "snr": 54,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -41,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -39,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -40,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -41,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -40,
+          "snr": 30
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -33,
+          "snr": 29
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -42,
+          "snr": 14
+        },
+        {
+          "bssid": "66:c3:a2:4f:2f:e9",
+          "ssid": "SAMFAST",
+          "channel": 48,
+          "rssi": -70,
+          "snr": 16
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -69,
+          "snr": 18
+        },
+        {
+          "bssid": "4e:c3:a2:4f:2f:e9",
+          "ssid": "SAMALLA",
+          "channel": 48,
+          "rssi": -70,
+          "snr": 21
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -70,
+          "snr": 20
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 2
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 7
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -79,
+          "snr": 8
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -81,
+          "snr": 8
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 5
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 1
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 3
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 3
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -88,
+          "snr": 3
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 14
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -82,
+          "snr": 5
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -81,
+          "snr": 10
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -78,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -79,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -54,
+          "snr": 24
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -55,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -56,
+          "snr": 25
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -54,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -54,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -79,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -27,
+          "snr": 25
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -28,
+          "snr": 26
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -27,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -26,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -80,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -27,
+          "snr": null
+        }
+      ]
+    },
+    {
+      "id": "P8",
+      "x": 2301,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -37,
+      "snr": 51,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -41,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -41,
+          "snr": 32
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -42,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -42,
+          "snr": 32
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -41,
+          "snr": 31
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -37,
+          "snr": 36
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -48,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "66:c3:a2:4f:2f:e9",
+          "ssid": "SAMFAST",
+          "channel": 48,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -76,
+          "snr": 16
+        },
+        {
+          "bssid": "4e:c3:a2:4f:2f:e9",
+          "ssid": "SAMALLA",
+          "channel": 48,
+          "rssi": -74,
+          "snr": 16
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -75,
+          "snr": 16
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cf",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 5
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 5
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 4
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 4
+        },
+        {
+          "bssid": "2c:5a:0f:1a:08:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -87,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -84,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -85,
+          "snr": 1
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 2
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -87,
+          "snr": 3
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -82,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -80,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -79,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -45,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -45,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -45,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -45,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -45,
+          "snr": 30
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -41,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -42,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -80,
+          "snr": 3
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -42,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -43,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -42,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -82,
+          "snr": null
+        }
+      ]
+    },
+    {
+      "id": "P9",
+      "x": 2597,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -41,
+      "snr": 47,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -31,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -32,
+          "snr": 26
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -32,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -32,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -32,
+          "snr": 32
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -41,
+          "snr": 31
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -57,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "78:bc:1a:88:06:ce",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -86,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -87,
+          "snr": 5
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:88:06:cd",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 7
+        },
+        {
+          "bssid": "78:bc:1a:88:06:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "52:c3:a2:4f:2f:e9",
+          "ssid": "",
+          "channel": 48,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "78:bc:1a:88:06:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -87,
+          "snr": 9
+        },
+        {
+          "bssid": "7a:c3:a2:4f:2f:e9",
+          "ssid": "SAMNET",
+          "channel": 48,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cf",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -81,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -80,
+          "snr": 8
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -80,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 5
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 3
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 4
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "24:d7:9c:90:85:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -78,
+          "snr": 11
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -78,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -82,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -83,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -71,
+          "snr": 19
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -72,
+          "snr": 16
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -71,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -53,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -53,
+          "snr": 29
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -53,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -53,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -53,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -41,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -41,
+          "snr": 24
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -40,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -40,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -42,
+          "snr": 8
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "x": 2892,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -41,
+      "snr": 47,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -33,
+          "snr": 34
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -33,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -34,
+          "snr": 36
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -33,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -32,
+          "snr": 33
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -41,
+          "snr": null
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 5
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 10
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 8
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:85:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 3
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 5
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cf",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -77,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 10
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 15
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 14
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -78,
+          "snr": 15
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -79,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -78,
+          "snr": 11
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -77,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -78,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -77,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -77,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -77,
+          "snr": 8
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -84,
+          "snr": 5
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -83,
+          "snr": 1
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -84,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -68,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -69,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -68,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -69,
+          "snr": 19
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -69,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -46,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -45,
+          "snr": 25
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -45,
+          "snr": 14
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -46,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -45,
+          "snr": 6
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "x": 3187,
+      "y": 944,
+      "environment": "corridor",
+      "condition": "LoS",
+      "rssi": -43,
+      "snr": 45,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -40,
+          "snr": 33
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -39,
+          "snr": 36
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -38,
+          "snr": 35
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -39,
+          "snr": 33
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -39,
+          "snr": 27
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -43,
+          "snr": 30
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -71,
+          "snr": 13
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -83,
+          "snr": 6
+        },
+        {
+          "bssid": "24:d7:9c:90:90:4f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -82,
+          "snr": 8
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 10
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 9
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -82,
+          "snr": 8
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -83,
+          "snr": 7
+        },
+        {
+          "bssid": "24:d7:9c:90:85:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 4
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 3
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cf",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "24:d7:9c:90:85:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 3
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -83,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -84,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -84,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -79,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -80,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -81,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -71,
+          "snr": 14
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -71,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -71,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -71,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -71,
+          "snr": 18
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -78,
+          "snr": 12
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -78,
+          "snr": 12
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -78,
+          "snr": 12
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -77,
+          "snr": 12
+        },
+        {
+          "bssid": "24:d7:9c:8f:57:cf",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -77,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -65,
+          "snr": 18
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -66,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -65,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -66,
+          "snr": 21
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -66,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -46,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -46,
+          "snr": 27
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -46,
+          "snr": 24
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -46,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -46,
+          "snr": null
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "x": 2892,
+      "y": 1239,
+      "environment": "office",
+      "condition": "NLoS",
+      "rssi": -62,
+      "snr": 21,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -52,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -51,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -52,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -52,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -51,
+          "snr": 30
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -62,
+          "snr": 21
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -65,
+          "snr": 24
+        },
+        {
+          "bssid": "02:0e:a0:05:ee:65",
+          "ssid": "WDC10_05EE66",
+          "channel": 48,
+          "rssi": -87,
+          "snr": 3
+        },
+        {
+          "bssid": "00:0e:a0:05:ee:65",
+          "ssid": "WHE_AP_5G_05EE66",
+          "channel": 48,
+          "rssi": -86,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cf",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -60,
+          "snr": 16
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -61,
+          "snr": 25
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -60,
+          "snr": 25
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -61,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -61,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -62,
+          "snr": 18
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -62,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -63,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -50,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -50,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -51,
+          "snr": 7
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -50,
+          "snr": 9
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -50,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -66,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -68,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -68,
+          "snr": 21
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -68,
+          "snr": 18
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -79,
+          "snr": 8
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -68,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -78,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:68:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -77,
+          "snr": 7
+        }
+      ]
+    },
+    {
+      "id": "P13",
+      "x": 2892,
+      "y": 1534,
+      "environment": "office",
+      "condition": "NLoS",
+      "rssi": -68,
+      "snr": 16,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -53,
+          "snr": 29
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -54,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -54,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -53,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -54,
+          "snr": 26
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -68,
+          "snr": 22
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -68,
+          "snr": 22
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cf",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:ce",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cd",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -75,
+          "snr": 10
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:8d:e9:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -76,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -65,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -65,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -65,
+          "snr": 23
+        },
+        {
+          "bssid": "4c:77:6d:d8:3d:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -65,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -65,
+          "snr": 21
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:ce",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -80,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -81,
+          "snr": 2
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cd",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -81,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:74:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -83,
+          "snr": 4
+        },
+        {
+          "bssid": "44:c2:0c:ca:f5:0f",
+          "ssid": "THN",
+          "channel": 116,
+          "rssi": -81,
+          "snr": 7
+        },
+        {
+          "bssid": "44:c2:0c:ca:f5:0e",
+          "ssid": "THN3",
+          "channel": 116,
+          "rssi": -81,
+          "snr": 1
+        },
+        {
+          "bssid": "44:c2:0c:ca:f5:0b",
+          "ssid": "THN-UTB",
+          "channel": 116,
+          "rssi": -81,
+          "snr": 1
+        },
+        {
+          "bssid": "44:c2:0c:ca:f5:0a",
+          "ssid": "THN-GUEST",
+          "channel": 116,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "44:c2:0c:ca:f5:0d",
+          "ssid": "THN-ADM",
+          "channel": 116,
+          "rssi": -81,
+          "snr": 1
+        },
+        {
+          "bssid": "44:c2:0c:ca:f5:0c",
+          "ssid": "THN-PSK",
+          "channel": 116,
+          "rssi": -82,
+          "snr": 1
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8f",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -49,
+          "snr": 13
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8e",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -49,
+          "snr": 31
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8d",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -49,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8c",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -50,
+          "snr": 29
+        },
+        {
+          "bssid": "70:b3:17:58:a3:8b",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -49,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -70,
+          "snr": 16
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -69,
+          "snr": 16
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -70,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -70,
+          "snr": 17
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -71,
+          "snr": 18
+        }
+      ]
+    },
+    {
+      "id": "P14",
+      "x": 236,
+      "y": 649,
+      "environment": "corridor",
+      "condition": "NLoS",
+      "rssi": -60,
+      "snr": 26,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:71:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -62,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0f",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -79,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0e",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -80,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0d",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -80,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -79,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -79,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cf",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -64,
+          "snr": 22
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:ce",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -61,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cd",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -61,
+          "snr": 26
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -60,
+          "snr": 26
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -72,
+          "snr": 19
+        },
+        {
+          "bssid": "78:18:ec:af:51:89",
+          "ssid": "PTJ_IoT",
+          "channel": 44,
+          "rssi": -86,
+          "snr": 6
+        },
+        {
+          "bssid": "78:18:ec:af:51:8a",
+          "ssid": "PTJ_Kontor",
+          "channel": 44,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -46,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -46,
+          "snr": 33
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -46,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -46,
+          "snr": 28
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -46,
+          "snr": 29
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2f",
+          "ssid": "eduroam",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2e",
+          "ssid": "HV-COF",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 5
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2d",
+          "ssid": "HV-GUEST",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2b",
+          "ssid": "PTC-IOT",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 4
+        },
+        {
+          "bssid": "78:bc:1a:50:62:2a",
+          "ssid": "HV-INTERNAL",
+          "channel": 52,
+          "rssi": -86,
+          "snr": 3
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0f",
+          "ssid": "eduroam",
+          "channel": 56,
+          "rssi": -75,
+          "snr": 16
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0e",
+          "ssid": "HV-COF",
+          "channel": 56,
+          "rssi": -75,
+          "snr": 16
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0d",
+          "ssid": "HV-GUEST",
+          "channel": 56,
+          "rssi": -74,
+          "snr": 15
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 16
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 56,
+          "rssi": -76,
+          "snr": 15
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6d",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -84,
+          "snr": 4
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -56,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -53,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -62,
+          "snr": 12
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -53,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -63,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -54,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -64,
+          "snr": 6
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -54,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -64,
+          "snr": 17
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6f",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -86,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -64,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:5e:6e",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -85,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -70,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -70,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -70,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -69,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -70,
+          "snr": 8
+        },
+        {
+          "bssid": "e4:4e:2d:ed:4b:6f",
+          "ssid": "VGR",
+          "channel": 104,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "e4:4e:2d:ed:4b:6e",
+          "ssid": "VGR Publikt",
+          "channel": 104,
+          "rssi": -79,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -55,
+          "snr": 5
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -55,
+          "snr": 30
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -54,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -54,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -53,
+          "snr": 30
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4f",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "e4:4e:2d:ec:b0:6e",
+          "ssid": "VGR Publikt",
+          "channel": 112,
+          "rssi": -83,
+          "snr": 3
+        },
+        {
+          "bssid": "e4:4e:2d:ec:b0:6f",
+          "ssid": "VGR",
+          "channel": 112,
+          "rssi": -83,
+          "snr": 3
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -81,
+          "snr": 5
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4d",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:e1",
+          "ssid": "HV-COF",
+          "channel": 120,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:e2",
+          "ssid": "HV-GUEST",
+          "channel": 120,
+          "rssi": -82,
+          "snr": 4
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:e3",
+          "ssid": "HV-HYBRID",
+          "channel": 120,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:e4",
+          "ssid": "HV-INTERNAL",
+          "channel": 120,
+          "rssi": -83,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:e0",
+          "ssid": "eduroam",
+          "channel": 120,
+          "rssi": -82,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cf",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -75,
+          "snr": 12
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:ce",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cd",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -75,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -76,
+          "snr": 6
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -69,
+          "snr": 20
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -68,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -68,
+          "snr": 25
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -67,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -68,
+          "snr": 24
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ef",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ee",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ed",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -78,
+          "snr": 7
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0f",
+          "ssid": "eduroam",
+          "channel": 136,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cf",
+          "ssid": "eduroam",
+          "channel": 136,
+          "rssi": -73,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:ce",
+          "ssid": "HV-COF",
+          "channel": 136,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cd",
+          "ssid": "HV-GUEST",
+          "channel": 136,
+          "rssi": -73,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 136,
+          "rssi": -73,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0d",
+          "ssid": "HV-GUEST",
+          "channel": 136,
+          "rssi": -81,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 136,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0e",
+          "ssid": "HV-COF",
+          "channel": 136,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 136,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 136,
+          "rssi": -81,
+          "snr": 2
+        }
+      ]
+    },
+    {
+      "id": "P15",
+      "x": 236,
+      "y": 354,
+      "environment": "corridor",
+      "condition": "NLoS",
+      "rssi": -73,
+      "snr": 13,
+      "detected_aps": [
+        {
+          "bssid": "48:8b:0a:cb:71:cf",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -66,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:ce",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -65,
+          "snr": 24
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cd",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -67,
+          "snr": 22
+        },
+        {
+          "bssid": "28:6f:7f:e1:e4:af",
+          "ssid": "eduroam",
+          "channel": 36,
+          "rssi": -82,
+          "snr": 10
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -63,
+          "snr": 25
+        },
+        {
+          "bssid": "28:6f:7f:e1:e4:ae",
+          "ssid": "HV-COF",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:71:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -65,
+          "snr": 24
+        },
+        {
+          "bssid": "28:6f:7f:e1:e4:ad",
+          "ssid": "HV-GUEST",
+          "channel": 36,
+          "rssi": -80,
+          "snr": 11
+        },
+        {
+          "bssid": "28:6f:7f:e1:e4:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 36,
+          "rssi": -82,
+          "snr": 10
+        },
+        {
+          "bssid": "28:6f:7f:e1:e4:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 36,
+          "rssi": -81,
+          "snr": 10
+        },
+        {
+          "bssid": "e8:37:7a:86:fc:e1",
+          "ssid": "APtlas_5",
+          "channel": 40,
+          "rssi": -73,
+          "snr": 16
+        },
+        {
+          "bssid": "78:18:ec:af:51:89",
+          "ssid": "PTJ_IoT",
+          "channel": 44,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "78:18:ec:af:51:8a",
+          "ssid": "PTJ_Kontor",
+          "channel": 44,
+          "rssi": -79,
+          "snr": 12
+        },
+        {
+          "bssid": "bc:0f:9a:53:c0:bd",
+          "ssid": "dlink-C0BB-5GHz",
+          "channel": 44,
+          "rssi": -81,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2d",
+          "ssid": "HV-GUEST",
+          "channel": 48,
+          "rssi": -39,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 48,
+          "rssi": -39,
+          "snr": 27
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 48,
+          "rssi": -39,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2f",
+          "ssid": "eduroam",
+          "channel": 48,
+          "rssi": -40,
+          "snr": 31
+        },
+        {
+          "bssid": "48:8b:0a:c8:29:2e",
+          "ssid": "HV-COF",
+          "channel": 48,
+          "rssi": -39,
+          "snr": 30
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0f",
+          "ssid": "eduroam",
+          "channel": 56,
+          "rssi": -70,
+          "snr": 21
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0e",
+          "ssid": "HV-COF",
+          "channel": 56,
+          "rssi": -69,
+          "snr": 20
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0d",
+          "ssid": "HV-GUEST",
+          "channel": 56,
+          "rssi": -69,
+          "snr": 20
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 56,
+          "rssi": -68,
+          "snr": 20
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 56,
+          "rssi": -70,
+          "snr": 21
+        },
+        {
+          "bssid": "70:b3:17:58:85:af",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -59,
+          "snr": null
+        },
+        {
+          "bssid": "70:b3:17:58:85:ae",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -61,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ef",
+          "ssid": "eduroam",
+          "channel": 64,
+          "rssi": -70,
+          "snr": 19
+        },
+        {
+          "bssid": "70:b3:17:58:85:ad",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -59,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ee",
+          "ssid": "HV-COF",
+          "channel": 64,
+          "rssi": -69,
+          "snr": 18
+        },
+        {
+          "bssid": "70:b3:17:58:85:ac",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -60,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ed",
+          "ssid": "HV-GUEST",
+          "channel": 64,
+          "rssi": -69,
+          "snr": 21
+        },
+        {
+          "bssid": "70:b3:17:58:85:ab",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -59,
+          "snr": 25
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 64,
+          "rssi": -71,
+          "snr": 20
+        },
+        {
+          "bssid": "48:8b:0a:ca:a3:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 64,
+          "rssi": -71,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0f",
+          "ssid": "eduroam",
+          "channel": 100,
+          "rssi": -78,
+          "snr": 12
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0e",
+          "ssid": "HV-COF",
+          "channel": 100,
+          "rssi": -77,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0d",
+          "ssid": "HV-GUEST",
+          "channel": 100,
+          "rssi": -78,
+          "snr": 8
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 100,
+          "rssi": -76,
+          "snr": 13
+        },
+        {
+          "bssid": "48:8b:0a:cb:4d:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 100,
+          "rssi": -76,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6f",
+          "ssid": "eduroam",
+          "channel": 108,
+          "rssi": -71,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6e",
+          "ssid": "HV-COF",
+          "channel": 108,
+          "rssi": -71,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6d",
+          "ssid": "HV-GUEST",
+          "channel": 108,
+          "rssi": -71,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6c",
+          "ssid": "HV-HYBRID",
+          "channel": 108,
+          "rssi": -71,
+          "snr": null
+        },
+        {
+          "bssid": "48:8b:0a:cb:60:6b",
+          "ssid": "HV-INTERNAL",
+          "channel": 108,
+          "rssi": -71,
+          "snr": 16
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4f",
+          "ssid": "eduroam",
+          "channel": 112,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4e",
+          "ssid": "HV-COF",
+          "channel": 112,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "e4:4e:2d:ec:b0:6f",
+          "ssid": "VGR",
+          "channel": 112,
+          "rssi": -85,
+          "snr": 3
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4d",
+          "ssid": "HV-GUEST",
+          "channel": 112,
+          "rssi": -74,
+          "snr": 15
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4c",
+          "ssid": "HV-HYBRID",
+          "channel": 112,
+          "rssi": -74,
+          "snr": 5
+        },
+        {
+          "bssid": "08:ec:f5:aa:2f:4b",
+          "ssid": "HV-INTERNAL",
+          "channel": 112,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cf",
+          "ssid": "eduroam",
+          "channel": 124,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:ce",
+          "ssid": "HV-COF",
+          "channel": 124,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cd",
+          "ssid": "HV-GUEST",
+          "channel": 124,
+          "rssi": -72,
+          "snr": 10
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 124,
+          "rssi": -73,
+          "snr": null
+        },
+        {
+          "bssid": "4c:77:6d:dd:96:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 124,
+          "rssi": -73,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:00",
+          "ssid": "eduroam",
+          "channel": 128,
+          "rssi": -80,
+          "snr": 8
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:01",
+          "ssid": "HV-COF",
+          "channel": 128,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:03",
+          "ssid": "HV-HYBRID",
+          "channel": 128,
+          "rssi": -80,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:04",
+          "ssid": "HV-INTERNAL",
+          "channel": 128,
+          "rssi": -79,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:b5:02",
+          "ssid": "HV-GUEST",
+          "channel": 128,
+          "rssi": -81,
+          "snr": 4
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2f",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -75,
+          "snr": 14
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2e",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -74,
+          "snr": 15
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2d",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -74,
+          "snr": null
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2c",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -75,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ef",
+          "ssid": "eduroam",
+          "channel": 132,
+          "rssi": -79,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ee",
+          "ssid": "HV-COF",
+          "channel": 132,
+          "rssi": -77,
+          "snr": 7
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ed",
+          "ssid": "HV-GUEST",
+          "channel": 132,
+          "rssi": -77,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:ec",
+          "ssid": "HV-HYBRID",
+          "channel": 132,
+          "rssi": -78,
+          "snr": 5
+        },
+        {
+          "bssid": "08:ec:f5:aa:2e:eb",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -79,
+          "snr": 7
+        },
+        {
+          "bssid": "24:16:9d:4f:bf:2b",
+          "ssid": "HV-INTERNAL",
+          "channel": 132,
+          "rssi": -74,
+          "snr": 6
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0f",
+          "ssid": "eduroam",
+          "channel": 136,
+          "rssi": -77,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0e",
+          "ssid": "HV-COF",
+          "channel": 136,
+          "rssi": -77,
+          "snr": null
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cf",
+          "ssid": "eduroam",
+          "channel": 136,
+          "rssi": -77,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0d",
+          "ssid": "HV-GUEST",
+          "channel": 136,
+          "rssi": -77,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:ce",
+          "ssid": "HV-COF",
+          "channel": 136,
+          "rssi": -77,
+          "snr": 7
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0c",
+          "ssid": "HV-HYBRID",
+          "channel": 136,
+          "rssi": -77,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cd",
+          "ssid": "HV-GUEST",
+          "channel": 136,
+          "rssi": -76,
+          "snr": 9
+        },
+        {
+          "bssid": "48:8b:0a:cb:75:0b",
+          "ssid": "HV-INTERNAL",
+          "channel": 136,
+          "rssi": -77,
+          "snr": 7
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cc",
+          "ssid": "HV-HYBRID",
+          "channel": 136,
+          "rssi": -76,
+          "snr": 9
+        },
+        {
+          "bssid": "08:ec:f5:b3:65:cb",
+          "ssid": "HV-INTERNAL",
+          "channel": 136,
+          "rssi": -76,
+          "snr": 10
+        }
+      ]
+    }
+  ]
+}
