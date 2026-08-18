@@ -1,0 +1,6 @@
+matplotlib==3.10.8
+numpy==2.4.3
+scipy==1.17.1
+Pillow==12.1.1
+scapy==2.7.0
+pyqt6==6.11.0 # Not imported directly, but it is the matplotlib GUI backend. Without an interactive backend matplotlib falls back to Agg, and the gridmap.py builder window never renders.
