@@ -2,7 +2,6 @@
 
 <img width="1275" height="640" alt="aptlas cover" src="https://github.com/user-attachments/assets/f88fc433-dfe1-447e-aac7-415d0088e959" />
 
-
 ## Setup
 
 ### Requirements
@@ -35,7 +34,7 @@ sudo apt install aircrack-ng wireless-tools
 
 ```bash
 # 1. Build a gridmap: place measurement points on a floor plan
-python aptlas.py -f pages/survey/floorplan.png
+python3 aptlas.py -f pages/survey/floorplan.png
 
 # 2. Survey: Walk the points and capture signal data at each measurement point (needs root + monitor mode)
 sudo python3 aptlas.py -g pages/survey/floorplan_gridmap.json -i wlan1
@@ -74,10 +73,10 @@ Place **at least 4 measurement points:** both the export and the heatmap interpo
 Each stage also works standalone, with its own flags:
 
 ```bash
-python gridmap.py -f pages/survey/floorplan.png [-s 0.016942] [--gridspacing 1.0]
-sudo python scanner.py -g pages/survey/floorplan_gridmap.json -i wlan1 [-r 3] [-b 5] [--ssid NAME]
-python heatmap.py -g pages/survey/floorplan_gridmap.json [-s NAME]
-python echidna.py -g pages/survey/floorplan_gridmap.json -f pages/survey/floorplan.png [-b 5] [--baseline]
+python3 gridmap.py -f pages/survey/floorplan.png [-s 0.016942] [--gridspacing 1.0]
+sudo python3 scanner.py -g pages/survey/floorplan_gridmap.json -i wlan1 [-r 3] [-b 5] [--ssid NAME]
+python3 heatmap.py -g pages/survey/floorplan_gridmap.json [-s NAME]
+python3 echidna.py -g pages/survey/floorplan_gridmap.json -f pages/survey/floorplan.png [-b 5] [--baseline]
 ```
 
 Note the differences from the `aptlas.py` flags: `heatmap.py` uses `-s`/`--ssid` (it takes the floorplan from the gridmap JSON), and `echidna.py` requires `-f` and accepts only `2.4` or `5` for `-b/--band`.
